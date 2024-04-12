@@ -1,0 +1,16 @@
+
+@font-face {
+    font-family: gilroy;
+    src: url(Gilroy-Regular.woff2);
+}
+
+*{
+    font-family: gilroy;
+}
+
+.container {
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/groceries.webp);
+}
+
+
+
